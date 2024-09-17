@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "img": "./assets/img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Fitness menu",
+      "descr": "The Fitness menu is a new approach to cooking: more fresh vegetables and fruits. A product of active and healthy people. This is a completely new product with an optimal price and high quality!",
+      "price": 9
+    },
+    {
+      "img": "./assets/img/tabs/post.jpg",
+      "altimg": "meatless",
+      "title": "Meatless menu",
+      "descr": "The Meatless menu is a careful selection of ingredients: a complete absence of animal products, milk from almonds, oats, coconut or buckwheat, the correct amount of protein due to tofu and imported vegetarian steaks.",
+      "price": 16
+    },
+    {
+      "img": "./assets/img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Premium menu",
+      "descr": "In the Premium menu we use not only beautiful packaging design, but also high-quality execution of dishes. Red fish, seafood, fruits - restaurant menu without going to the restaurant!",
+      "price": 21
+    }
+  ],
+  "requests": [
+  ]
+}
